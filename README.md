@@ -10,13 +10,13 @@ This project sets up a fully modular and reusable AWS infrastructure using Terra
 
 > **Note**: This is a demo replication of a real infrastructure project delivered for a client.
 
-## 📁 Modules Used
+##  Modules Used
 
 - **VPC** — CIDR block, subnets, internet gateway, route tables
 - **EC2** — Configurable AMI, instance type, key pair
 - **RDS** — Private subnet MySQL deployment
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 cd environments/dev
